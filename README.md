@@ -1,11 +1,13 @@
 # AtliQ Sales Dashboard with Power BI
 
 ## Overview
-This repository contains the Power BI dashboard for sales data analysis, focused on delivering key insights into sales performance across various dimensions, including products, customers, and markets. The Power BI file (Sales_Data.pbix) provides interactive visualizations and analytics to support decision-making and optimize sales strategies.
+This project involves the development of a dynamic sales dashboard utilizing the AIMS GRID methodology to provide actionable insights for the Sales Director at AtliQ. The goal is to uncover previously hidden sales trends, empowering the sales team to make informed, data-driven decisions. Additionally, the project will automate data collection processes, reducing manual effort and enhancing operational efficiency.
 
-## Background
+## Success Criteria
 
-Using SQL and Tableau to Create dashboards that will give insights to the Sales Director at AtliQ to help make informed business decisions.
+- Deliver a comprehensive dashboard that reveals critical sales order insights using the most up-to-date data.
+- Support the sales team in making informed decisions that result in a 10% reduction in total spending.
+- Automate manual data collection processes, saving 20% of the sales analyst's time, which can then be reinvested into higher-value tasks.
 
 ## Tools Used
 During the course of the project I used the following:
@@ -66,3 +68,13 @@ The dashboard contains several types of visualizations to help interpret the dat
 2. Modify the data connections or add new data sources as needed.
 3. Customize the visuals or create new reports to suit your needs.
 4. Publish the report to Power BI Service or share the .pbix file with other users.
+
+## Results
+Below is a snapshot of the dashboard:
+
+![Dashboard Preview](assets/Capture.PNG)
+
+## Conclusion
+The Sales Dashboard provides a comprehensive overview of key performance indicators (KPIs) related to sales across products, customers, and markets. Through detailed data visualizations and interactive elements, users can quickly identify top-performing areas and those that require improvement. The dashboard offers valuable insights into sales trends, customer behavior, and market opportunities, making it a crucial tool for sales managers, analysts, and decision-makers.
+
+Overall, the dashboard facilitates informed decision-making by simplifying the process of analyzing large volumes of sales data, providing clear, actionable insights to drive business growth.
